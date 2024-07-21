@@ -1,0 +1,6 @@
+tweepy
+pandas
+sqlalchemy
+matplotlib
+reportlab
+pandas-stubs
